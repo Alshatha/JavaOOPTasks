@@ -1,4 +1,4 @@
-Java OOP Practice – Student Task Sheet
+Java OOP Practice 
 
 This project demonstrates key Object-Oriented Programming (OOP) concepts in Java through a series of structured tasks. Each concept is implemented in a separate .java file and includes proper class design, method use, inheritance, encapsulation, abstraction, and interface implementation.
 
